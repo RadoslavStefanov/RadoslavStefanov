@@ -1,12 +1,3 @@
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Radoslav Stefanov</h1>
 <h3 align="center">A passionate FullStack student.</h3>
 
