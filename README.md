@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello and wellcome to my profile, my name is Radoslav Stefanov.
+- 🔭 I’m currently working on Web Based store management software (VSMS)
+- 🌱 I’m currently learning ... ASP.NET
+- 👯 I’m looking to collaborate on ... Any new and interesting projects
+- 🤔 I’m looking for help with ... HTML&CSS
+- 💬 Ask me about C#/PowerShell/JavaScript
+- 📫 How to reach me: radoslav.g.stefanov@gmail.com
+- ⚡ Fun fact: I got interested in programming thanks to game scripting
 
 <!--
 **RadoslavStefanov/RadoslavStefanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
