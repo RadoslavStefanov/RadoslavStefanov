@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoslavstefanov&label=Profile%20views&color=0e75b6&style=flat" alt="radoslavstefanov" /> </p>
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **Angular**
 - 👨‍💻 All of my projects are available at [https://github.com/RadoslavStefanov](https://github.com/RadoslavStefanov)
 - 💬 Ask me about **C#/PowerShell/JavaScript**
 - 📫 How to reach me **radoslav.g.stefanov@gmail.com**
