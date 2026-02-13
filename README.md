@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Angular**
 - 🧑‍💼 Tech-Lead at **InfoSys**
-- 🧑‍💼 Lead-Dev at **Komshi.bg**
 - 👨‍💻 All of my projects are available at [https://github.com/RadoslavStefanov](https://github.com/RadoslavStefanov)
 - 💬 Ask me about **C#/PowerShell/JavaScript**
 - 📫 How to reach me **radoslav.g.stefanov@gmail.com**
