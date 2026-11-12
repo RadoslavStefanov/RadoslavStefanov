@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoslavstefanov&label=Profile%20views&color=0e75b6&style=flat" alt="radoslavstefanov" /> </p>
 
-- 🌱 I’m currently learning **Angular**
 - 🧑‍💼 Tech-Lead at **InfoSys**
 - 👨‍💻 All of my projects are available at [https://github.com/RadoslavStefanov](https://github.com/RadoslavStefanov)
-- 💬 Ask me about **C#/PowerShell/JavaScript**
+- 💬 Ask me about **C#/PowerShell/JavaScript/AI Development/App Development**
 - 📫 How to reach me **radoslav.g.stefanov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
